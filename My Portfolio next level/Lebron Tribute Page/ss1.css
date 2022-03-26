@@ -1,0 +1,56 @@
+.test {
+    background-image:url("arena2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    color:white;
+}
+
+h2 {
+    text-align: center;
+}
+
+.lbjm { 
+    width:800px;
+    height:700px;
+    padding-left: 650px;
+}
+
+.points {
+    background-color: darkgray;
+}
+
+.top {
+    background-color: gray;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.org {
+    background-image: url('bc2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.acc {
+    background-image: url('trr.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:aliceblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.foot {
+    background-color: gray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+

@@ -1,0 +1,28 @@
+.top {
+    background-color: #ffffff10;
+    backdrop-filter: blur(12px);
+    border: 1px solid black;
+    padding-left: 15px;
+}
+
+.intro {
+    text-align: center;
+
+}
+
+body {
+    background-image: url('whiteback.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#work {
+    padding: 10px;
+    background-color: blue;
+    color: aliceblue;
+}
+
+.projects {
+    padding-left: 290px;
+    text-align: center;
+}
